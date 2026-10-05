@@ -1,4 +1,3 @@
-# breast-cancer-classification
 # Breast Cancer Classification Using Machine Learning
 
 Classifying breast tumors as **benign (0)** or **malignant (1)** from 30 diagnostic measurements, and comparing four machine learning models before and after hyperparameter tuning.
